@@ -1,0 +1,50 @@
+{
+  "program": "Treino em V",
+  "unit": "kg",
+  "routines": [
+    {"name": "Segunda: peito + abdômen", "days": ["monday"], "exercises": [
+      {"name": "Dumbbell Incline Bench Press", "sets": 4, "reps": "6-10", "rest": 120},
+      {"name": "Barbell Bench Press", "sets": 3, "reps": "8-10", "rest": 120},
+      {"name": "Pec Deck", "sets": 3, "reps": "12-15", "rest": 75},
+      {"name": "Cable Crossover", "sets": 2, "reps": "12-15", "rest": 60},
+      {"name": "Cable Kneeling Crunch", "sets": 3, "reps": "12-15", "rest": 60}
+    ]},
+    {"name": "Terça: quadríceps + panturrilha", "days": ["tuesday"], "exercises": [
+      {"name": "Barbell Full Squat", "sets": 4, "reps": "6-10", "rest": 150},
+      {"name": "Leg Press", "sets": 3, "reps": "10-12", "rest": 120},
+      {"name": "Leg Extension", "sets": 3, "reps": "12-15", "rest": 75},
+      {"name": "Dumbbell Lunge", "sets": 3, "reps": "10", "rest": 90},
+      {"name": "Lever Standing Calf Raise", "sets": 4, "reps": "10-15", "rest": 60}
+    ]},
+    {"name": "Quarta: costas", "days": ["wednesday"], "exercises": [
+      {"name": "Wide-Grip Lat Pulldown", "sets": 4, "reps": "8-12", "rest": 90},
+      {"name": "Barbell Bent Over Row", "sets": 4, "reps": "6-10", "rest": 120},
+      {"name": "Cable Seated Row", "sets": 3, "reps": "10-12", "rest": 90},
+      {"name": "Straight-Arm Pulldown", "sets": 3, "reps": "12-15", "rest": 60},
+      {"name": "Dumbbell Shrug", "sets": 3, "reps": "10-12", "rest": 60},
+      {"name": "Back Extension", "sets": 2, "reps": "12-15", "rest": 60}
+    ]},
+    {"name": "Quinta: ombros + posterior de coxa", "days": ["thursday"], "exercises": [
+      {"name": "Seated Dumbbell Shoulder Press", "sets": 4, "reps": "6-10", "rest": 120},
+      {"name": "Dumbbell Lateral Raise", "sets": 4, "reps": "12-15", "rest": 60},
+      {"name": "Machine Reverse Fly", "sets": 3, "reps": "12-15", "rest": 60},
+      {"name": "Lying Leg Curl", "sets": 3, "reps": "10-12", "rest": 90},
+      {"name": "Barbell Romanian Deadlift", "sets": 3, "reps": "8-10", "rest": 120}
+    ]},
+    {"name": "Sexta: braços + reforço do V", "days": ["friday"], "exercises": [
+      {"name": "Barbell Curl", "sets": 3, "reps": "8-10", "rest": 75},
+      {"name": "Dumbbell Hammer Curl", "sets": 3, "reps": "10-12", "rest": 60},
+      {"name": "Cable Pushdown", "sets": 3, "reps": "10-12", "rest": 60},
+      {"name": "Barbell Lying Triceps Extension", "sets": 3, "reps": "8-10", "rest": 75},
+      {"name": "Barbell Seated Calf Raise", "sets": 3, "reps": "12-15", "rest": 60},
+      {"name": "Wide-Grip Lat Pulldown", "sets": 3, "reps": "10-12", "rest": 60},
+      {"name": "Dumbbell Lateral Raise", "sets": 3, "reps": "15-20", "rest": 45}
+    ]},
+    {"name": "Sábado (opcional): ponto fraco", "days": ["saturday"], "exercises": [
+      {"name": "Wide-Grip Lat Pulldown", "sets": 3, "reps": "10-12", "rest": 90},
+      {"name": "Cable Seated Row", "sets": 3, "reps": "10-12", "rest": 90},
+      {"name": "Seated Dumbbell Shoulder Press", "sets": 3, "reps": "8-10", "rest": 90},
+      {"name": "Dumbbell Lateral Raise", "sets": 4, "reps": "12-15", "rest": 60}
+    ]}
+  ]
+}
